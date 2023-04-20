@@ -17,3 +17,7 @@ background: #1a1831!important;
 .banner .banner-buttons a {
   background: #9d59fd!important;
 }
+
+.banner-pagination a.selected span {
+  background: #9d59fd!important;
+}
