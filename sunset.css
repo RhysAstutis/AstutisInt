@@ -9,3 +9,7 @@ background: #1a1831!important;
 .copyright {
 background: #1a1831!important;
 }
+
+.carousel-container .prev, carousel-container .next {
+  background: #9d59fd!important;
+}
