@@ -9,3 +9,6 @@ background: #1a1831!important;
 .copyright {
 background: #1a1831!important;
 }
+#toggler h3:hover, #toggler h3.active {
+  color: #ffffff!important
+    background: #000000!important
