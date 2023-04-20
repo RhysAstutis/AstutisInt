@@ -10,10 +10,6 @@ background: #1a1831!important;
 background: #1a1831!important;
 }
 
-.carousel-container .prev {
-  background: #9d59fd!important;
-}
-
-.carousel-container .next {
+.carousel-container {
   background: #9d59fd!important;
 }
