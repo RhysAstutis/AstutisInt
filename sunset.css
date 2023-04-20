@@ -9,3 +9,7 @@ background: #1a1831!important;
 .copyright {
 background: #1a1831!important;
 }
+
+element.style {
+  color: #ffffff!important
+}
