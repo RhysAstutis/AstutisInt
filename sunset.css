@@ -13,3 +13,7 @@ background: #1a1831!important;
 .carousel-container .next , .prev {
   background: #9d59fd!important;
 }
+
+.banner .banner-buttons a {
+  background: #9d59fd!important;
+}
