@@ -21,6 +21,12 @@ background: #1a1831!important;
 .banner-pagination a.selected span {
   background: #9d59fd!important;
 }
+
 @media only screen and (max-width: 790px)
   .nav-contact {
     background: #9d59fd!important;
+}
+
+    #toggler h3 {
+      color: #fff!important;
+}
