@@ -29,9 +29,9 @@ background: #1a1831!important;
 
     #toggler h3 {
       color: #fff!important;
+      background: #1a1831!important;
 }
 
 #toggler h3:before {
-  content: "Q";
   color: #fff!important;
 }
