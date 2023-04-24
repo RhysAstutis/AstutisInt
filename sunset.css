@@ -44,3 +44,11 @@ body:not(.cke_ltr) .burger div {
 #toggler h3:before {
   color: #fff!important;
 }
+
+span.buy-button a {
+    color: #9d59fd!important;
+}
+
+.button a, a .button, .button {
+  background: #fff!important;
+}
