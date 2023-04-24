@@ -47,8 +47,9 @@ body:not(.cke_ltr) .burger div {
 
 span.buy-button a {
     color: #9d59fd!important;
+  background: #fff!important;
 }
 
-.button a, a .button, .button {
-  background: #fff!important;
+span.buy-button span.button {
+    background: #fff!important;
 }
