@@ -25,6 +25,7 @@ background: #1a1831!important;
 @media only screen and (max-width: 790px) {
   .nav-contact {
     background: #9d59fd!important;
+    border: 1px solid #9d59fd!important;
   }}
 
 @media screen and (max-width: 1199px) {
