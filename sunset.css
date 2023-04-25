@@ -53,3 +53,7 @@ span.buy-button a {
 span.buy-button span.button {
     background: #fff!important;
 }
+
+.buy-course-table th > p {
+    font-weight: normal;
+}
