@@ -57,3 +57,7 @@ span.buy-button span.button {
 .buy-course-table th > p {
     font-weight: normal;
 }
+
+.ResultsFieldName {
+    background: #9d59fd;
+}
