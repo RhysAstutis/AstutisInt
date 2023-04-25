@@ -10,15 +10,6 @@ background: #1a1831!important;
 background: #1a1831!important;
 }
 
-h2 {
-  color: #000!important;
-    text-transform: uppercase!important;
-  text-align: left!important;
-  margin-top: 40px!important;
-    margin-bottom: 20px!important;
-  line-height: 1.2!important;
-}
-
 .carousel-container .next , .prev {
   background: #9d59fd!important;
 }
