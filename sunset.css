@@ -61,3 +61,7 @@ span.buy-button span.button {
 .ResultsFieldName {
     background: #9d59fd!important;
 }
+
+.button[class*="c2"] {
+    background: #9d59fd!important;
+}
