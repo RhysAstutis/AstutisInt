@@ -65,3 +65,8 @@ span.buy-button span.button {
 .button[class*="c2"] {
     background: #9d59fd!important;
 }
+
+.button[class*="c2"]:hover {
+    background: #fff!important;
+    color: #9D59FF!important;
+}
