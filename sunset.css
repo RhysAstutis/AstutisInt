@@ -70,3 +70,7 @@ span.buy-button span.button {
     background: #fff!important;
     color: #9D59FF!important;
 }
+
+.header-bottom .nav li.lev1:before {
+  background-color: #9d59fd;!important;
+}
