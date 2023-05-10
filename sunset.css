@@ -33,6 +33,11 @@ body:not(.cke_ltr) .burger div {
     background-color: #9d59fd!important;
   }}
 
+@media screen and (max-width: 1199px) {
+body:not(.cke_ltr) .close:before, body:not(.cke_ltr) .close:after {
+    background-color: #9d59fd!important;
+}}
+
     #toggler h3 {
       color: #fff!important;
 }
@@ -75,7 +80,7 @@ span.buy-button span.button {
   background-color: #9d59fd;!important;
 }
 
-@media screen and (max-width: 1199px)
+@media screen and (max-width: 1199px) {
 body:not(.cke_ltr) .mobile-menu {
   background: #1a1831!important;
-}
+  }}
