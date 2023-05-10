@@ -75,7 +75,6 @@ span.buy-button span.button {
   background-color: #9d59fd;!important;
 }
 
-@media screen and (max-width: 1199px)
-body:not(.cke_ltr) .mobile-menu {
+.mobile-menu {
   background: #1a1831!important;
 }
