@@ -74,3 +74,8 @@ span.buy-button span.button {
 .header-bottom .nav li.lev1:before {
   background-color: #9d59fd;!important;
 }
+
+@media screen and (max-width: 1199px)
+body:not(.cke_ltr) .mobile-menu {
+  background: #1a1831!important;
+}
