@@ -104,7 +104,7 @@ body:not(.cke_ltr) .mobile-menu {
   border: none;
   border-right: 2px solid #9d59fd;
   height: 50px;
-  margin: 0;
+  margin: 10;
   margin-top: 2px;
   margin-bottom: 2px;
   float: left;
