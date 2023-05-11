@@ -27,14 +27,11 @@ background: #1a1831!important;
     background: #9d59fd!important;
     border: 1px solid #9d59fd!important;
     font-size: 12px!important;
+    font-weight: bold!important;
     border-radius: 30px!important;
     color: #fff!important;
+    top: -35px!important;
   }}
-
-.nav-contact a:link {
-  color: #fff!important;
-  font-weight: bold!important;
-}
 
 @media screen and (max-width: 1199px) {
 body:not(.cke_ltr) .burger div {
