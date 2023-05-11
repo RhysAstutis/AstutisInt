@@ -95,7 +95,7 @@ span.buy-button span.button {
 body:not(.cke_ltr) .mobile-menu {
   background: #1a1831!important;
   }}
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 605px) {
   .lm-hr{
     display:none;
   }
