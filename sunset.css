@@ -34,6 +34,11 @@ background: #1a1831!important;
     width: 110px!important;
   }}
 
+@media screen and (max-width: 400px) {
+.nav-contact > a {
+  display: contents!important;
+}}
+
 @media screen and (max-width: 1199px) {
 body:not(.cke_ltr) .burger div {
     background-color: #9d59fd!important;
