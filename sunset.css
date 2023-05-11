@@ -95,11 +95,13 @@ span.buy-button span.button {
 body:not(.cke_ltr) .mobile-menu {
   background: #1a1831!important;
   }}
+
 @media screen and (max-width: 605px) {
   .lm-hr{
     display:none;
   }
 }
+
 .lm-hr{
   border: none;
   border-right: 2px solid #9d59fd;
@@ -110,4 +112,10 @@ body:not(.cke_ltr) .mobile-menu {
   float: left;
   width: 100%;
   max-width: 2px;
+}
+
+@media screen and (max-width: 624px) {
+  .accreditations {
+    display:none;
+  }
 }
