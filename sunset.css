@@ -32,12 +32,21 @@ background: #1a1831!important;
     color: #fff!important;
     margin-top: -15px!important;
     width: 110px!important;
-  }}
+  }
+}
 
 @media screen and (max-width: 400px) {
 .nav-contact > a {
   display: contents!important;
-}}
+  }
+}
+
+@media only screen and (max-width: 400px) {
+.nav-contact {
+    top: 17px!important;
+    margin: 0px 0px!important;
+  }
+}
 
 @media screen and (max-width: 1199px) {
 body:not(.cke_ltr) .burger div {
