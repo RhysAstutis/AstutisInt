@@ -119,3 +119,13 @@ body:not(.cke_ltr) .mobile-menu {
     display:none;
   }
 }
+
+@media (max-width: 799px) {
+  img[alt="Newsletter Icon1"] {
+    float: none;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+}
