@@ -41,9 +41,15 @@ background: #1a1831!important;
   }
 }
 
+@media screen and (max-width: 400px) {
+.header {
+    border-bottom: 4px solid #9d59fd!important;
+}
+}
+
 @media only screen and (max-width: 400px) {
 .nav-contact {
-    top: 17px!important;
+    top: 5px!important;
     margin: 0px 0px!important;
   }
 }
