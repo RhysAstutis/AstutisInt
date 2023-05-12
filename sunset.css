@@ -121,7 +121,7 @@ body:not(.cke_ltr) .mobile-menu {
 }
 
 @media (max-width: 799px) {
-  img[alt="Newsletter Icon1"] {
+  .img[alt="Newsletter Icon1"] {
     float: none;
     display: block;
     margin: 0 auto;
